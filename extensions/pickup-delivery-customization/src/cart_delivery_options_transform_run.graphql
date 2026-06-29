@@ -1,4 +1,18 @@
 query CartDeliveryOptionsTransformRunInput {
+  cart {
+    attribute(key: "Fulfillment Method") {
+      value
+    }
+    deliveryGroups {
+      deliveryOptions {
+        handle
+        title
+        cost {
+          amount
+        }
+      }
+    }
+  }
   deliveryCustomization {
     metafield(namespace: "$app:pickup-delivery-customization", key: "function-configuration") {
       jsonValue
