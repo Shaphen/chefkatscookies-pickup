@@ -8,7 +8,10 @@
     "dev": "shopify app dev",
     "info": "shopify app info",
     "generate": "shopify app generate",
-    "deploy": "shopify app deploy"
+    "deploy": "shopify app deploy",
+    "zips:build": "node scripts/build-zip-tiers.cjs",
+    "zips:sync": "node scripts/sync-zip-tiers.cjs",
+    "rates:setup": "node scripts/setup-delivery-rates.cjs"
   },
   "dependencies": {},
   "trustedDependencies": [

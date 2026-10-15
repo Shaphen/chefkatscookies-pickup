@@ -1,3 +1,27 @@
+# Chef Kat's Cookies — delivery customization Function
+
+One delivery-customization Function (`extensions/pickup-delivery-customization`) that:
+
+1. **Pickup:** a cart with `Fulfillment Method = Pickup` sees only the $0 "Local Pickup" rate; every other cart never sees it.
+2. **ZIP-priced delivery:** delivery is sold as four flat shipping rates in the California zone (Local / Semi-Local / Standard / Long Distance Delivery). The Function shows each buyer only the tier for their ZIP and hides them all outside the area. This replaced Shopify's native Local Delivery, which Apple Pay / Google Pay / PayPal express checkout can't see (they showed "doesn't ship to your address").
+
+## ZIP tiers
+
+Source of truth: [`config/delivery-zip-tiers.csv`](config/delivery-zip-tiers.csv) — one row per ZIP, priced by straight-line distance from Fremont 94538 (≤10 mi free, ≤15 $3.99, ≤25 $4.99, ≤50 $7.99). Only the `zip`, `tier` and `price` columns are used; the rest are for reading.
+
+To correct a ZIP: edit its row (change `tier` + `price`, add a row, or delete it to stop delivering there), then:
+
+```bash
+npm run zips:sync              # dry run: shows which ZIPs change
+npm run zips:sync -- --apply   # live at checkout immediately, no deploy needed
+```
+
+To rebuild the whole table (new origin or tier edges — edit the constants in `scripts/build-zip-tiers.cjs`): `npm run zips:build` (**overwrites** manual edits), then sync. If tier titles or prices change, also run `npm run rates:setup -- --apply` so the Shopify rates match.
+
+Scripts authenticate as this app: the first run opens a browser to approve access and caches an offline token in `.shopify-admin-token.json` (gitignored). The Shopify CLI must be logged in (`shopify app env show`).
+
+---
+
 # Shopify App Template - Extension only
 
 This is a template for building an [extension-only Shopify app](https://shopify.dev/docs/apps/build/app-extensions/build-extension-only-app). It contains the basics for building a Shopify app that uses only app extensions.

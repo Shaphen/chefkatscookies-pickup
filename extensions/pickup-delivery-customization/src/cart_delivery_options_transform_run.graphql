@@ -4,6 +4,9 @@ query CartDeliveryOptionsTransformRunInput {
       value
     }
     deliveryGroups {
+      deliveryAddress {
+        zip
+      }
       deliveryOptions {
         handle
         title

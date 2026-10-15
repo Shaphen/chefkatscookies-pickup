@@ -1,0 +1,108 @@
+{
+  "payload": {
+    "export": "cart-delivery-options-transform-run",
+    "target": "cart.delivery-options.transform.run",
+    "input": {
+      "cart": {
+        "attribute": null,
+        "deliveryGroups": [
+          {
+            "deliveryAddress": null,
+            "deliveryOptions": [
+              {
+                "handle": "h-pickup",
+                "title": "Local Pickup",
+                "cost": {
+                  "amount": "0.0"
+                }
+              },
+              {
+                "handle": "h-local",
+                "title": "Local Delivery",
+                "cost": {
+                  "amount": "0.0"
+                }
+              },
+              {
+                "handle": "h-semi",
+                "title": "Semi-Local Delivery",
+                "cost": {
+                  "amount": "3.99"
+                }
+              },
+              {
+                "handle": "h-std",
+                "title": "Standard Delivery",
+                "cost": {
+                  "amount": "4.99"
+                }
+              },
+              {
+                "handle": "h-long",
+                "title": "Long Distance Delivery",
+                "cost": {
+                  "amount": "7.99"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "deliveryCustomization": {
+        "metafield": {
+          "jsonValue": {
+            "pickupOptionTitle": "Local Pickup",
+            "pickupValue": "Pickup",
+            "deliveryTiers": [
+              {
+                "title": "Local Delivery",
+                "zips": "94536 94538"
+              },
+              {
+                "title": "Semi-Local Delivery",
+                "zips": "94541"
+              },
+              {
+                "title": "Standard Delivery",
+                "zips": "94603 95070"
+              },
+              {
+                "title": "Long Distance Delivery",
+                "zips": "94102"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "output": {
+      "operations": [
+        {
+          "deliveryOptionHide": {
+            "deliveryOptionHandle": "h-pickup"
+          }
+        },
+        {
+          "deliveryOptionHide": {
+            "deliveryOptionHandle": "h-local"
+          }
+        },
+        {
+          "deliveryOptionHide": {
+            "deliveryOptionHandle": "h-semi"
+          }
+        },
+        {
+          "deliveryOptionHide": {
+            "deliveryOptionHandle": "h-std"
+          }
+        },
+        {
+          "deliveryOptionHide": {
+            "deliveryOptionHandle": "h-long"
+          }
+        }
+      ]
+    }
+  }
+}

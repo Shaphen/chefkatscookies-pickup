@@ -1,0 +1,407 @@
+zip,city,county,miles_from_fremont_94538,tier,price,centroid_source
+94538,"Fremont","Alameda",0.0,Local Delivery,0.00,zcta
+94539,"Fremont","Alameda",2.7,Local Delivery,0.00,zcta
+94560,"Newark","Alameda",4.1,Local Delivery,0.00,zcta
+94536,"Fremont","Alameda",5.0,Local Delivery,0.00,zcta
+95134,"San Jose","Santa Clara",5.0,Local Delivery,0.00,zcta
+95002,"Alviso","Santa Clara",5.3,Local Delivery,0.00,zcta
+95036,"Milpitas","Santa Clara",6.0,Local Delivery,0.00,geonames
+95035,"Milpitas","Santa Clara",6.2,Local Delivery,0.00,zcta
+94089,"Sunnyvale","Santa Clara",6.9,Local Delivery,0.00,zcta
+95056,"Santa Clara","Santa Clara",7.0,Local Delivery,0.00,geonames
+94586,"Sunol","Alameda",7.3,Local Delivery,0.00,zcta
+95054,"Santa Clara","Santa Clara",7.5,Local Delivery,0.00,zcta
+95164,"San Jose","Santa Clara",7.8,Local Delivery,0.00,geonames
+94555,"Fremont","Alameda",8.4,Local Delivery,0.00,zcta
+94085,"Sunnyvale","Santa Clara",8.5,Local Delivery,0.00,zcta
+95131,"San Jose","Santa Clara",8.5,Local Delivery,0.00,zcta
+95150,"San Jose","Santa Clara",8.6,Local Delivery,0.00,geonames
+95101,"San Jose","Santa Clara",8.6,Local Delivery,0.00,geonames
+95161,"San Jose","Santa Clara",8.6,Local Delivery,0.00,geonames
+95190,"San Jose","Santa Clara",8.6,Local Delivery,0.00,geonames
+95194,"San Jose","Santa Clara",8.6,Local Delivery,0.00,geonames
+94043,"Mountain View","Santa Clara",8.7,Local Delivery,0.00,zcta
+94587,"Union City","Alameda",8.9,Local Delivery,0.00,zcta
+95152,"San Jose","Santa Clara",9.1,Local Delivery,0.00,geonames
+94303,"Palo Alto","San Mateo",9.2,Local Delivery,0.00,zcta
+94086,"Sunnyvale","Santa Clara",9.7,Local Delivery,0.00,zcta
+94088,"Sunnyvale","Santa Clara",10.1,Semi-Local Delivery,3.99,geonames
+94041,"Mountain View","Santa Clara",10.2,Semi-Local Delivery,3.99,zcta
+95052,"Santa Clara","Santa Clara",10.3,Semi-Local Delivery,3.99,geonames
+95133,"San Jose","Santa Clara",10.4,Semi-Local Delivery,3.99,zcta
+95050,"Santa Clara","Santa Clara",10.4,Semi-Local Delivery,3.99,zcta
+94035,"Mountain View","Santa Clara",10.6,Semi-Local Delivery,3.99,geonames
+94039,"Mountain View","Santa Clara",10.6,Semi-Local Delivery,3.99,geonames
+94042,"Mountain View","Santa Clara",10.6,Semi-Local Delivery,3.99,geonames
+95053,"Santa Clara","Santa Clara",10.6,Semi-Local Delivery,3.99,zcta
+94544,"Hayward","Alameda",10.6,Semi-Local Delivery,3.99,zcta
+95051,"Santa Clara","Santa Clara",10.7,Semi-Local Delivery,3.99,zcta
+95055,"Santa Clara","Santa Clara",10.9,Semi-Local Delivery,3.99,geonames
+95132,"San Jose","Santa Clara",10.9,Semi-Local Delivery,3.99,zcta
+94040,"Mountain View","Santa Clara",10.9,Semi-Local Delivery,3.99,zcta
+95110,"San Jose","Santa Clara",11.0,Semi-Local Delivery,3.99,zcta
+94302,"Palo Alto","Santa Clara",11.0,Semi-Local Delivery,3.99,geonames
+94309,"Palo Alto","Santa Clara",11.0,Semi-Local Delivery,3.99,geonames
+94306,"Palo Alto","Santa Clara",11.2,Semi-Local Delivery,3.99,zcta
+94087,"Sunnyvale","Santa Clara",11.2,Semi-Local Delivery,3.99,zcta
+94542,"Hayward","Alameda",11.3,Semi-Local Delivery,3.99,zcta
+94301,"Palo Alto","Santa Clara",11.3,Semi-Local Delivery,3.99,zcta
+95112,"San Jose","Santa Clara",11.6,Semi-Local Delivery,3.99,zcta
+95025,"San Jose","Santa Clara",11.7,Semi-Local Delivery,3.99,geonames
+95141,"San Jose","Santa Clara",11.7,Semi-Local Delivery,3.99,geonames
+95156,"San Jose","Santa Clara",11.8,Semi-Local Delivery,3.99,geonames
+94023,"Los Altos","Santa Clara",11.8,Semi-Local Delivery,3.99,geonames
+94566,"Pleasanton","Alameda",11.8,Semi-Local Delivery,3.99,zcta
+95103,"San Jose","Santa Clara",11.9,Semi-Local Delivery,3.99,geonames
+95106,"San Jose","Santa Clara",11.9,Semi-Local Delivery,3.99,geonames
+95108,"San Jose","Santa Clara",11.9,Semi-Local Delivery,3.99,geonames
+95109,"San Jose","Santa Clara",11.9,Semi-Local Delivery,3.99,geonames
+95115,"San Jose","Santa Clara",11.9,Semi-Local Delivery,3.99,geonames
+95116,"San Jose","Santa Clara",11.9,Semi-Local Delivery,3.99,zcta
+95173,"San Jose","Santa Clara",12.0,Semi-Local Delivery,3.99,geonames
+95192,"San Jose","Santa Clara",12.0,Semi-Local Delivery,3.99,geonames
+95113,"San Jose","Santa Clara",12.1,Semi-Local Delivery,3.99,zcta
+95196,"San Jose","Santa Clara",12.2,Semi-Local Delivery,3.99,geonames
+95172,"San Jose","Santa Clara",12.2,Semi-Local Delivery,3.99,geonames
+95126,"San Jose","Santa Clara",12.3,Semi-Local Delivery,3.99,zcta
+95191,"San Jose","Santa Clara",12.3,Semi-Local Delivery,3.99,geonames
+94537,"Fremont","Alameda",12.5,Semi-Local Delivery,3.99,geonames
+94540,"Hayward","Alameda",12.5,Semi-Local Delivery,3.99,geonames
+94557,"Hayward","Alameda",12.5,Semi-Local Delivery,3.99,geonames
+95159,"San Jose","Santa Clara",12.7,Semi-Local Delivery,3.99,geonames
+94545,"Hayward","Alameda",12.8,Semi-Local Delivery,3.99,zcta
+94025,"Menlo Park","San Mateo",12.8,Semi-Local Delivery,3.99,zcta
+95128,"San Jose","Santa Clara",12.9,Semi-Local Delivery,3.99,zcta
+95127,"San Jose","Santa Clara",12.9,Semi-Local Delivery,3.99,zcta
+94024,"Los Altos","Santa Clara",13.0,Semi-Local Delivery,3.99,zcta
+94305,"Stanford","Santa Clara",13.1,Semi-Local Delivery,3.99,zcta
+95117,"San Jose","Santa Clara",13.2,Semi-Local Delivery,3.99,zcta
+94063,"Redwood City","San Mateo",13.3,Semi-Local Delivery,3.99,zcta
+95015,"Cupertino","Santa Clara",13.4,Semi-Local Delivery,3.99,geonames
+94543,"Hayward","Alameda",13.4,Semi-Local Delivery,3.99,geonames
+95170,"San Jose","Santa Clara",13.5,Semi-Local Delivery,3.99,geonames
+95155,"San Jose","Santa Clara",13.6,Semi-Local Delivery,3.99,geonames
+94304,"Palo Alto","Santa Clara",13.6,Semi-Local Delivery,3.99,zcta
+95122,"San Jose","Santa Clara",13.6,Semi-Local Delivery,3.99,zcta
+95129,"San Jose","Santa Clara",13.7,Semi-Local Delivery,3.99,zcta
+94027,"Atherton","San Mateo",13.8,Semi-Local Delivery,3.99,zcta
+95157,"San Jose","Santa Clara",13.9,Semi-Local Delivery,3.99,geonames
+94541,"Hayward","Alameda",13.9,Semi-Local Delivery,3.99,zcta
+95011,"Campbell","Santa Clara",14.3,Semi-Local Delivery,3.99,geonames
+94552,"Castro Valley","Alameda",14.4,Semi-Local Delivery,3.99,zcta
+94022,"Los Altos","Santa Clara",14.4,Semi-Local Delivery,3.99,zcta
+95151,"San Jose","Santa Clara",14.4,Semi-Local Delivery,3.99,geonames
+95125,"San Jose","Santa Clara",14.6,Semi-Local Delivery,3.99,zcta
+95009,"Campbell","Santa Clara",14.8,Semi-Local Delivery,3.99,geonames
+95148,"San Jose","Santa Clara",15.1,Standard Delivery,4.99,zcta
+95014,"Cupertino","Santa Clara",15.1,Standard Delivery,4.99,zcta
+94568,"Dublin","Alameda",15.1,Standard Delivery,4.99,zcta
+95008,"Campbell","Santa Clara",15.4,Standard Delivery,4.99,zcta
+95130,"San Jose","Santa Clara",15.5,Standard Delivery,4.99,zcta
+94580,"San Lorenzo","Alameda",15.6,Standard Delivery,4.99,zcta
+94061,"Redwood City","San Mateo",15.6,Standard Delivery,4.99,zcta
+95121,"San Jose","Santa Clara",15.8,Standard Delivery,4.99,zcta
+94065,"Redwood City","San Mateo",16.2,Standard Delivery,4.99,zcta
+95154,"San Jose","Santa Clara",16.5,Standard Delivery,4.99,geonames
+94028,"Portola Valley","San Mateo",16.5,Standard Delivery,4.99,zcta
+95111,"San Jose","Santa Clara",16.6,Standard Delivery,4.99,zcta
+95136,"San Jose","Santa Clara",16.8,Standard Delivery,4.99,zcta
+94579,"San Leandro","Alameda",16.9,Standard Delivery,4.99,zcta
+94578,"San Leandro","Alameda",16.9,Standard Delivery,4.99,zcta
+95124,"San Jose","Santa Clara",17.0,Standard Delivery,4.99,zcta
+95158,"San Jose","Santa Clara",17.1,Standard Delivery,4.99,geonames
+95071,"Saratoga","Santa Clara",17.2,Standard Delivery,4.99,geonames
+94070,"San Carlos","San Mateo",17.3,Standard Delivery,4.99,zcta
+95118,"San Jose","Santa Clara",17.4,Standard Delivery,4.99,zcta
+95070,"Saratoga","Santa Clara",17.8,Standard Delivery,4.99,zcta
+94404,"San Mateo","San Mateo",17.9,Standard Delivery,4.99,zcta
+94582,"San Ramon","Contra Costa",18.4,Standard Delivery,4.99,zcta
+95153,"San Jose","Santa Clara",18.5,Standard Delivery,4.99,geonames
+94546,"Castro Valley","Alameda",18.6,Standard Delivery,4.99,zcta
+94002,"Belmont","San Mateo",18.7,Standard Delivery,4.99,zcta
+94583,"San Ramon","Contra Costa",18.8,Standard Delivery,4.99,zcta
+94062,"Redwood City","San Mateo",18.8,Standard Delivery,4.99,zcta
+94577,"San Leandro","Alameda",18.9,Standard Delivery,4.99,zcta
+95123,"San Jose","Santa Clara",19.0,Standard Delivery,4.99,zcta
+94570,"Moraga","Contra Costa",19.1,Standard Delivery,4.99,geonames
+95193,"San Jose","Santa Clara",19.1,Standard Delivery,4.99,geonames
+94403,"San Mateo","San Mateo",19.3,Standard Delivery,4.99,zcta
+95030,"Los Gatos","Santa Clara",19.4,Standard Delivery,4.99,zcta
+95140,"Mount Hamilton","Santa Clara",20.1,Standard Delivery,4.99,zcta
+95160,"San Jose","Santa Clara",20.2,Standard Delivery,4.99,geonames
+94603,"Oakland","Alameda",20.3,Standard Delivery,4.99,zcta
+94497,"San Mateo","San Mateo",20.4,Standard Delivery,4.99,geonames
+94401,"San Mateo","San Mateo",20.5,Standard Delivery,4.99,zcta
+94551,"Livermore","Alameda",20.6,Standard Delivery,4.99,zcta
+94402,"San Mateo","San Mateo",20.6,Standard Delivery,4.99,zcta
+94614,"Oakland","Alameda",20.7,Standard Delivery,4.99,geonames
+94588,"Pleasanton","Alameda",20.8,Standard Delivery,4.99,zcta
+94605,"Oakland","Alameda",20.9,Standard Delivery,4.99,zcta
+94550,"Livermore","Alameda",20.9,Standard Delivery,4.99,zcta
+95138,"San Jose","Santa Clara",21.1,Standard Delivery,4.99,zcta
+95119,"San Jose","Santa Clara",21.1,Standard Delivery,4.99,zcta
+94506,"Danville","Contra Costa",21.1,Standard Delivery,4.99,zcta
+94020,"La Honda","San Mateo",21.7,Standard Delivery,4.99,zcta
+94526,"Danville","Contra Costa",21.7,Standard Delivery,4.99,zcta
+95139,"San Jose","Santa Clara",21.8,Standard Delivery,4.99,zcta
+94621,"Oakland","Alameda",22.1,Standard Delivery,4.99,zcta
+94026,"Menlo Park","San Mateo",22.3,Standard Delivery,4.99,geonames
+94064,"Redwood City","San Mateo",22.3,Standard Delivery,4.99,geonames
+95032,"Los Gatos","Santa Clara",22.5,Standard Delivery,4.99,zcta
+95120,"San Jose","Santa Clara",22.7,Standard Delivery,4.99,zcta
+94502,"Alameda","Alameda",22.7,Standard Delivery,4.99,zcta
+94613,"Oakland","Alameda",22.9,Standard Delivery,4.99,zcta
+94619,"Oakland","Alameda",23.0,Standard Delivery,4.99,zcta
+95013,"Coyote","Santa Clara",23.1,Standard Delivery,4.99,zcta
+94011,"Burlingame","San Mateo",23.1,Standard Delivery,4.99,geonames
+94010,"Burlingame","San Mateo",23.4,Standard Delivery,4.99,zcta
+94528,"Diablo","Contra Costa",23.5,Standard Delivery,4.99,zcta
+95042,"New Almaden","Santa Clara",23.6,Standard Delivery,4.99,geonames
+94021,"Loma Mar","San Mateo",23.7,Standard Delivery,4.99,zcta
+95033,"Los Gatos","Santa Clara",23.7,Standard Delivery,4.99,zcta
+95026,"Holy City","Santa Clara",23.8,Standard Delivery,4.99,geonames
+95044,"Redwood Estates","Santa Clara",23.8,Standard Delivery,4.99,geonames
+94601,"Oakland","Alameda",23.8,Standard Delivery,4.99,zcta
+95031,"Los Gatos","Santa Clara",23.8,Standard Delivery,4.99,geonames
+94556,"Moraga","Contra Costa",24.0,Standard Delivery,4.99,zcta
+94074,"San Gregorio","San Mateo",24.1,Standard Delivery,4.99,zcta
+94060,"Pescadero","San Mateo",24.3,Standard Delivery,4.99,zcta
+94507,"Alamo","Contra Costa",24.5,Standard Delivery,4.99,zcta
+94128,"San Francisco","San Mateo",24.8,Standard Delivery,4.99,zcta
+94575,"Moraga","Contra Costa",24.9,Standard Delivery,4.99,zcta
+94019,"Half Moon Bay","San Mateo",24.9,Standard Delivery,4.99,zcta
+94602,"Oakland","Alameda",25.0,Standard Delivery,4.99,zcta
+95006,"Boulder Creek","Santa Cruz",25.1,Long Distance Delivery,7.99,zcta
+94516,"Canyon","Contra Costa",25.3,Long Distance Delivery,7.99,zcta
+94030,"Millbrae","San Mateo",25.4,Long Distance Delivery,7.99,zcta
+94606,"Oakland","Alameda",25.5,Long Distance Delivery,7.99,zcta
+94622,"Oakland","Alameda",25.5,Long Distance Delivery,7.99,geonames
+94501,"Alameda","Alameda",25.8,Long Distance Delivery,7.99,zcta
+94595,"Walnut Creek","Contra Costa",26.3,Long Distance Delivery,7.99,zcta
+94610,"Oakland","Alameda",26.5,Long Distance Delivery,7.99,zcta
+94083,"South San Francisco","San Mateo",26.9,Long Distance Delivery,7.99,geonames
+94611,"Oakland","Alameda",26.9,Long Distance Delivery,7.99,zcta
+95377,"Tracy","San Joaquin",26.9,Long Distance Delivery,7.99,zcta
+94620,"Piedmont","Alameda",26.9,Long Distance Delivery,7.99,geonames
+94604,"Oakland","Alameda",27.1,Long Distance Delivery,7.99,geonames
+94623,"Oakland","Alameda",27.1,Long Distance Delivery,7.99,geonames
+94624,"Oakland","Alameda",27.1,Long Distance Delivery,7.99,geonames
+94649,"Oakland","Alameda",27.1,Long Distance Delivery,7.99,geonames
+94659,"Oakland","Alameda",27.1,Long Distance Delivery,7.99,geonames
+94660,"Oakland","Alameda",27.1,Long Distance Delivery,7.99,geonames
+94661,"Oakland","Alameda",27.1,Long Distance Delivery,7.99,geonames
+94666,"Oakland","Alameda",27.1,Long Distance Delivery,7.99,geonames
+94612,"Oakland","Alameda",27.1,Long Distance Delivery,7.99,zcta
+94596,"Walnut Creek","Contra Costa",27.1,Long Distance Delivery,7.99,zcta
+94617,"Oakland","Alameda",27.3,Long Distance Delivery,7.99,geonames
+94080,"South San Francisco","San Mateo",27.4,Long Distance Delivery,7.99,zcta
+94066,"San Bruno","San Mateo",27.4,Long Distance Delivery,7.99,zcta
+95391,"Tracy","San Joaquin",27.5,Long Distance Delivery,7.99,zcta
+94005,"Brisbane","San Mateo",27.8,Long Distance Delivery,7.99,zcta
+94517,"Clayton","Contra Costa",27.9,Long Distance Delivery,7.99,zcta
+94124,"San Francisco","City and County of San Francisco",28.1,Long Distance Delivery,7.99,zcta
+94615,"Oakland","Alameda",28.3,Long Distance Delivery,7.99,geonames
+94618,"Oakland","Alameda",28.3,Long Distance Delivery,7.99,zcta
+94018,"El Granada","San Mateo",28.3,Long Distance Delivery,7.99,zcta
+95007,"Brookdale","Santa Cruz",28.4,Long Distance Delivery,7.99,zcta
+94038,"Moss Beach","San Mateo",28.4,Long Distance Delivery,7.99,zcta
+94188,"San Francisco","City and County of San Francisco",28.5,Long Distance Delivery,7.99,zcta
+94609,"Oakland","Alameda",28.5,Long Distance Delivery,7.99,zcta
+94607,"Oakland","Alameda",28.6,Long Distance Delivery,7.99,zcta
+95038,"Morgan Hill","Santa Clara",28.7,Long Distance Delivery,7.99,geonames
+94514,"Byron","Contra Costa",28.7,Long Distance Delivery,7.99,zcta
+95005,"Ben Lomond","Santa Cruz",28.8,Long Distance Delivery,7.99,zcta
+94598,"Walnut Creek","Contra Costa",28.9,Long Distance Delivery,7.99,zcta
+94549,"Lafayette","Contra Costa",29.0,Long Distance Delivery,7.99,zcta
+94662,"Emeryville","Alameda",29.0,Long Distance Delivery,7.99,geonames
+94134,"San Francisco","City and County of San Francisco",29.1,Long Distance Delivery,7.99,zcta
+94563,"Orinda","Contra Costa",29.1,Long Distance Delivery,7.99,zcta
+95018,"Felton","Santa Cruz",29.4,Long Distance Delivery,7.99,zcta
+94597,"Walnut Creek","Contra Costa",29.4,Long Distance Delivery,7.99,zcta
+94608,"Emeryville","Alameda",29.5,Long Distance Delivery,7.99,zcta
+94705,"Berkeley","Alameda",29.5,Long Distance Delivery,7.99,zcta
+95037,"Morgan Hill","Santa Clara",29.7,Long Distance Delivery,7.99,zcta
+94044,"Pacifica","San Mateo",29.7,Long Distance Delivery,7.99,zcta
+94037,"Montara","San Mateo",29.8,Long Distance Delivery,7.99,zcta
+94014,"Daly City","San Mateo",29.9,Long Distance Delivery,7.99,zcta
+94107,"San Francisco","City and County of San Francisco",30.0,Long Distance Delivery,7.99,zcta
+94158,"San Francisco","City and County of San Francisco",30.1,Long Distance Delivery,7.99,zcta
+95066,"Scotts Valley","Santa Cruz",30.2,Long Distance Delivery,7.99,zcta
+94704,"Berkeley","Alameda",30.2,Long Distance Delivery,7.99,zcta
+94720,"Berkeley","Alameda",30.3,Long Distance Delivery,7.99,zcta
+94110,"San Francisco","City and County of San Francisco",30.4,Long Distance Delivery,7.99,zcta
+95135,"San Jose","Santa Clara",30.5,Long Distance Delivery,7.99,zcta
+94703,"Berkeley","Alameda",30.5,Long Distance Delivery,7.99,zcta
+94112,"San Francisco","City and County of San Francisco",30.6,Long Distance Delivery,7.99,zcta
+94712,"Berkeley","Alameda",30.9,Long Distance Delivery,7.99,geonames
+94702,"Berkeley","Alameda",31.0,Long Distance Delivery,7.99,zcta
+94701,"Berkeley","Alameda",31.0,Long Distance Delivery,7.99,geonames
+94016,"Daly City","San Mateo",31.1,Long Distance Delivery,7.99,geonames
+94017,"Daly City","San Mateo",31.1,Long Distance Delivery,7.99,geonames
+94709,"Berkeley","Alameda",31.1,Long Distance Delivery,7.99,zcta
+95378,"Tracy","San Joaquin",31.1,Long Distance Delivery,7.99,geonames
+94103,"San Francisco","City and County of San Francisco",31.2,Long Distance Delivery,7.99,zcta
+94105,"San Francisco","City and County of San Francisco",31.2,Long Distance Delivery,7.99,zcta
+94521,"Concord","Contra Costa",31.2,Long Distance Delivery,7.99,zcta
+94518,"Concord","Contra Costa",31.2,Long Distance Delivery,7.99,zcta
+94527,"Concord","Contra Costa",31.2,Long Distance Delivery,7.99,geonames
+95067,"Scotts Valley","Santa Cruz",31.3,Long Distance Delivery,7.99,geonames
+94015,"Daly City","San Mateo",31.3,Long Distance Delivery,7.99,zcta
+94710,"Berkeley","Alameda",31.4,Long Distance Delivery,7.99,zcta
+94131,"San Francisco","City and County of San Francisco",31.5,Long Distance Delivery,7.99,zcta
+94130,"San Francisco","City and County of San Francisco",31.5,Long Distance Delivery,7.99,zcta
+94104,"San Francisco","City and County of San Francisco",31.5,Long Distance Delivery,7.99,zcta
+94119,"San Francisco","City and County of San Francisco",31.6,Long Distance Delivery,7.99,geonames
+94120,"San Francisco","City and County of San Francisco",31.6,Long Distance Delivery,7.99,geonames
+94125,"San Francisco","City and County of San Francisco",31.6,Long Distance Delivery,7.99,geonames
+94126,"San Francisco","City and County of San Francisco",31.6,Long Distance Delivery,7.99,geonames
+94137,"San Francisco","City and County of San Francisco",31.6,Long Distance Delivery,7.99,geonames
+94139,"San Francisco","City and County of San Francisco",31.6,Long Distance Delivery,7.99,geonames
+94140,"San Francisco","City and County of San Francisco",31.6,Long Distance Delivery,7.99,geonames
+94141,"San Francisco","City and County of San Francisco",31.6,Long Distance Delivery,7.99,geonames
+94142,"San Francisco","City and County of San Francisco",31.6,Long Distance Delivery,7.99,geonames
+94144,"San Francisco","City and County of San Francisco",31.6,Long Distance Delivery,7.99,geonames
+94145,"San Francisco","City and County of San Francisco",31.6,Long Distance Delivery,7.99,geonames
+94146,"San Francisco","City and County of San Francisco",31.6,Long Distance Delivery,7.99,geonames
+94147,"San Francisco","City and County of San Francisco",31.6,Long Distance Delivery,7.99,geonames
+94151,"San Francisco","City and County of San Francisco",31.6,Long Distance Delivery,7.99,geonames
+94159,"San Francisco","City and County of San Francisco",31.6,Long Distance Delivery,7.99,geonames
+94160,"San Francisco","City and County of San Francisco",31.6,Long Distance Delivery,7.99,geonames
+94161,"San Francisco","City and County of San Francisco",31.6,Long Distance Delivery,7.99,geonames
+94163,"San Francisco","City and County of San Francisco",31.6,Long Distance Delivery,7.99,geonames
+94164,"San Francisco","City and County of San Francisco",31.6,Long Distance Delivery,7.99,geonames
+94172,"San Francisco","City and County of San Francisco",31.6,Long Distance Delivery,7.99,geonames
+94177,"San Francisco","City and County of San Francisco",31.6,Long Distance Delivery,7.99,geonames
+94114,"San Francisco","City and County of San Francisco",31.6,Long Distance Delivery,7.99,zcta
+95041,"Mount Hermon","Santa Cruz",31.6,Long Distance Delivery,7.99,zcta
+94111,"San Francisco","City and County of San Francisco",31.7,Long Distance Delivery,7.99,zcta
+94102,"San Francisco","City and County of San Francisco",31.8,Long Distance Delivery,7.99,zcta
+94127,"San Francisco","City and County of San Francisco",31.8,Long Distance Delivery,7.99,zcta
+94108,"San Francisco","City and County of San Francisco",31.8,Long Distance Delivery,7.99,zcta
+95073,"Soquel","Santa Cruz",31.9,Long Distance Delivery,7.99,zcta
+94523,"Pleasant Hill","Contra Costa",32.0,Long Distance Delivery,7.99,zcta
+95017,"Davenport","Santa Cruz",32.0,Long Distance Delivery,7.99,zcta
+94505,"Discovery Bay","Contra Costa",32.2,Long Distance Delivery,7.99,zcta
+94708,"Berkeley","Alameda",32.4,Long Distance Delivery,7.99,zcta
+94133,"San Francisco","City and County of San Francisco",32.4,Long Distance Delivery,7.99,zcta
+95065,"Santa Cruz","Santa Cruz",32.4,Long Distance Delivery,7.99,zcta
+94117,"San Francisco","City and County of San Francisco",32.5,Long Distance Delivery,7.99,zcta
+94109,"San Francisco","City and County of San Francisco",32.5,Long Distance Delivery,7.99,zcta
+94707,"Berkeley","Alameda",32.6,Long Distance Delivery,7.99,zcta
+94706,"Albany","Alameda",32.6,Long Distance Delivery,7.99,zcta
+94132,"San Francisco","City and County of San Francisco",32.6,Long Distance Delivery,7.99,zcta
+94513,"Brentwood","Contra Costa",32.8,Long Distance Delivery,7.99,zcta
+94115,"San Francisco","City and County of San Francisco",32.8,Long Distance Delivery,7.99,zcta
+94143,"San Francisco","City and County of San Francisco",32.9,Long Distance Delivery,7.99,geonames
+95003,"Aptos","Santa Cruz",32.9,Long Distance Delivery,7.99,zcta
+95376,"Tracy","San Joaquin",32.9,Long Distance Delivery,7.99,zcta
+94531,"Antioch","Contra Costa",32.9,Long Distance Delivery,7.99,zcta
+94522,"Concord","Contra Costa",33.2,Long Distance Delivery,7.99,geonames
+94524,"Concord","Contra Costa",33.2,Long Distance Delivery,7.99,geonames
+94529,"Concord","Contra Costa",33.2,Long Distance Delivery,7.99,geonames
+94123,"San Francisco","City and County of San Francisco",33.4,Long Distance Delivery,7.99,zcta
+94116,"San Francisco","City and County of San Francisco",33.5,Long Distance Delivery,7.99,zcta
+94118,"San Francisco","City and County of San Francisco",33.7,Long Distance Delivery,7.99,zcta
+94519,"Concord","Contra Costa",33.8,Long Distance Delivery,7.99,zcta
+95304,"Tracy","San Joaquin",33.8,Long Distance Delivery,7.99,zcta
+94122,"San Francisco","City and County of San Francisco",33.9,Long Distance Delivery,7.99,zcta
+95046,"San Martin","Santa Clara",34.0,Long Distance Delivery,7.99,zcta
+94520,"Concord","Contra Costa",34.3,Long Distance Delivery,7.99,zcta
+94129,"San Francisco","City and County of San Francisco",34.5,Long Distance Delivery,7.99,zcta
+94530,"El Cerrito","Contra Costa",34.5,Long Distance Delivery,7.99,zcta
+94553,"Martinez","Contra Costa",34.7,Long Distance Delivery,7.99,zcta
+94509,"Antioch","Contra Costa",34.7,Long Distance Delivery,7.99,zcta
+94565,"Pittsburg","Contra Costa",35.0,Long Distance Delivery,7.99,zcta
+94121,"San Francisco","City and County of San Francisco",35.2,Long Distance Delivery,7.99,zcta
+94804,"Richmond","Contra Costa",35.6,Long Distance Delivery,7.99,zcta
+95064,"Santa Cruz","Santa Cruz",35.7,Long Distance Delivery,7.99,zcta
+95060,"Santa Cruz","Santa Cruz",35.9,Long Distance Delivery,7.99,zcta
+94803,"El Sobrante","Contra Costa",36.2,Long Distance Delivery,7.99,zcta
+95063,"Santa Cruz","Santa Cruz",36.2,Long Distance Delivery,7.99,geonames
+95001,"Aptos","Santa Cruz",36.2,Long Distance Delivery,7.99,geonames
+95010,"Capitola","Santa Cruz",36.3,Long Distance Delivery,7.99,zcta
+94805,"Richmond","Contra Costa",36.5,Long Distance Delivery,7.99,zcta
+95062,"Santa Cruz","Santa Cruz",36.5,Long Distance Delivery,7.99,zcta
+94548,"Knightsen","Contra Costa",36.6,Long Distance Delivery,7.99,zcta
+95061,"Santa Cruz","Santa Cruz",36.7,Long Distance Delivery,7.99,geonames
+94802,"Richmond","Contra Costa",36.8,Long Distance Delivery,7.99,geonames
+94807,"Richmond","Contra Costa",36.8,Long Distance Delivery,7.99,geonames
+94808,"Richmond","Contra Costa",36.8,Long Distance Delivery,7.99,geonames
+94850,"Richmond","Contra Costa",36.8,Long Distance Delivery,7.99,geonames
+94561,"Oakley","Contra Costa",37.0,Long Distance Delivery,7.99,zcta
+94820,"El Sobrante","Contra Costa",37.7,Long Distance Delivery,7.99,geonames
+94564,"Pinole","Contra Costa",37.9,Long Distance Delivery,7.99,zcta
+94966,"Sausalito","Marin",38.0,Long Distance Delivery,7.99,geonames
+94920,"Belvedere Tiburon","Marin",38.4,Long Distance Delivery,7.99,zcta
+94547,"Hercules","Contra Costa",38.6,Long Distance Delivery,7.99,zcta
+94801,"Richmond","Contra Costa",38.6,Long Distance Delivery,7.99,zcta
+94965,"Sausalito","Marin",38.9,Long Distance Delivery,7.99,zcta
+94806,"San Pablo","Contra Costa",39.1,Long Distance Delivery,7.99,zcta
+94572,"Rodeo","Contra Costa",39.1,Long Distance Delivery,7.99,zcta
+95387,"Westley","Stanislaus",39.2,Long Distance Delivery,7.99,zcta
+95385,"Vernalis","San Joaquin",39.5,Long Distance Delivery,7.99,zcta
+94569,"Port Costa","Contra Costa",39.6,Long Distance Delivery,7.99,zcta
+95020,"Gilroy","Santa Clara",40.0,Long Distance Delivery,7.99,zcta
+95021,"Gilroy","Santa Clara",40.1,Long Distance Delivery,7.99,geonames
+95076,"Watsonville","Santa Cruz",40.1,Long Distance Delivery,7.99,zcta
+95019,"Freedom","Santa Cruz",40.2,Long Distance Delivery,7.99,zcta
+94511,"Bethel Island","Contra Costa",40.5,Long Distance Delivery,7.99,zcta
+94525,"Crockett","Contra Costa",40.6,Long Distance Delivery,7.99,zcta
+95330,"Lathrop","San Joaquin",41.1,Long Distance Delivery,7.99,zcta
+95208,"Stockton","San Joaquin",41.1,Long Distance Delivery,7.99,geonames
+95206,"Stockton","San Joaquin",41.6,Long Distance Delivery,7.99,zcta
+95234,"Holt","San Joaquin",41.7,Long Distance Delivery,7.99,geonames
+95363,"Patterson","Stanislaus",41.8,Long Distance Delivery,7.99,zcta
+94974,"San Quentin","Marin",41.9,Long Distance Delivery,7.99,geonames
+94964,"San Quentin","Marin",42.1,Long Distance Delivery,7.99,zcta
+95077,"Watsonville","Santa Cruz",42.2,Long Distance Delivery,7.99,geonames
+94925,"Corte Madera","Marin",42.3,Long Distance Delivery,7.99,zcta
+94942,"Mill Valley","Marin",42.6,Long Distance Delivery,7.99,geonames
+95337,"Manteca","San Joaquin",42.7,Long Distance Delivery,7.99,zcta
+94976,"Corte Madera","Marin",42.8,Long Distance Delivery,7.99,geonames
+94510,"Benicia","Solano",43.2,Long Distance Delivery,7.99,zcta
+94977,"Larkspur","Marin",43.5,Long Distance Delivery,7.99,geonames
+95219,"Stockton","San Joaquin",43.6,Long Distance Delivery,7.99,zcta
+94939,"Larkspur","Marin",43.7,Long Distance Delivery,7.99,zcta
+94590,"Vallejo","Solano",44.1,Long Distance Delivery,7.99,zcta
+94512,"Birds Landing","Solano",44.1,Long Distance Delivery,7.99,zcta
+94901,"San Rafael","Marin",44.5,Long Distance Delivery,7.99,zcta
+94592,"Vallejo","Solano",44.5,Long Distance Delivery,7.99,zcta
+95231,"French Camp","San Joaquin",44.6,Long Distance Delivery,7.99,zcta
+94904,"Greenbrae","Marin",44.7,Long Distance Delivery,7.99,zcta
+94591,"Vallejo","Solano",45.2,Long Distance Delivery,7.99,zcta
+94914,"Kentfield","Marin",45.2,Long Distance Delivery,7.99,geonames
+94912,"San Rafael","Marin",45.3,Long Distance Delivery,7.99,geonames
+94913,"San Rafael","Marin",45.3,Long Distance Delivery,7.99,geonames
+94941,"Mill Valley","Marin",45.7,Long Distance Delivery,7.99,zcta
+94957,"Ross","Marin",46.0,Long Distance Delivery,7.99,zcta
+94571,"Rio Vista","Solano",46.2,Long Distance Delivery,7.99,zcta
+94979,"San Anselmo","Marin",46.5,Long Distance Delivery,7.99,geonames
+95203,"Stockton","San Joaquin",46.5,Long Distance Delivery,7.99,zcta
+95004,"Aromas","Monterey",46.8,Long Distance Delivery,7.99,zcta
+94589,"Vallejo","Solano",47.0,Long Distance Delivery,7.99,zcta
+95358,"Modesto","Stanislaus",47.1,Long Distance Delivery,7.99,zcta
+95336,"Manteca","San Joaquin",47.1,Long Distance Delivery,7.99,zcta
+94585,"Suisun City","Solano",47.7,Long Distance Delivery,7.99,zcta
+95039,"Moss Landing","Monterey",47.7,Long Distance Delivery,7.99,zcta
+95204,"Stockton","San Joaquin",47.7,Long Distance Delivery,7.99,zcta
+95296,"Stockton","San Joaquin",48.2,Long Distance Delivery,7.99,geonames
+94978,"Fairfax","Marin",48.2,Long Distance Delivery,7.99,geonames
+94960,"San Anselmo","Marin",48.2,Long Distance Delivery,7.99,zcta
+95201,"Stockton","San Joaquin",48.3,Long Distance Delivery,7.99,geonames
+94970,"Stinson Beach","Marin",48.3,Long Distance Delivery,7.99,zcta
+95202,"Stockton","San Joaquin",48.3,Long Distance Delivery,7.99,zcta
+95211,"Stockton","San Joaquin",48.4,Long Distance Delivery,7.99,zcta
+94930,"Fairfax","Marin",48.4,Long Distance Delivery,7.99,zcta
+95366,"Ripon","San Joaquin",48.5,Long Distance Delivery,7.99,zcta
+95214,"Stockton","San Joaquin",48.7,Long Distance Delivery,7.99,geonames
+94903,"San Rafael","Marin",48.8,Long Distance Delivery,7.99,zcta
+95207,"Stockton","San Joaquin",48.9,Long Distance Delivery,7.99,zcta
+94949,"Novato","Marin",48.9,Long Distance Delivery,7.99,zcta
+95213,"Stockton","San Joaquin",48.9,Long Distance Delivery,7.99,geonames
+95297,"Stockton","San Joaquin",48.9,Long Distance Delivery,7.99,geonames
+95267,"Stockton","San Joaquin",49.1,Long Distance Delivery,7.99,geonames
+95641,"Isleton","Sacramento",49.1,Long Distance Delivery,7.99,zcta
+94503,"American Canyon","Napa",49.6,Long Distance Delivery,7.99,zcta
+95205,"Stockton","San Joaquin",49.7,Long Distance Delivery,7.99,zcta
+95269,"Stockton","San Joaquin",49.8,Long Distance Delivery,7.99,geonames

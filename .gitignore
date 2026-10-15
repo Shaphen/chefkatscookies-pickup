@@ -27,3 +27,5 @@ extensions/*/dist
 # Ignore shopify files created during app dev
 .shopify/*
 .shopify.lock
+# Local offline Admin API token (scripts/lib/admin.cjs) — never commit
+.shopify-admin-token.json
